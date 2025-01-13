@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+  - CNAME
 
 website:
   title: "Identités numériques 2024-2025"
