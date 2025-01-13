@@ -8,7 +8,7 @@ nocite: false
 
 ::: {.callout-note}
 
-[Cliquez ici](https://demo.hedgedoc.org/lWUhVJ8CR4GpbYoAU3PauA#) pour accéder au pad collaboratif.
+[Cliquez ici](https://pad.libreon.fr/vvJpGRolTMyrHlDRiKqm-Q) pour accéder au pad collaboratif.
 
 :::
 

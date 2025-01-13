@@ -36,9 +36,9 @@ Votre présence en cours est obligatoire (dans la limite de trois absences non j
 
 ::: {.callout-note}
 
-Il est attendu des étudiant·e·s qu'ils prennent des notes collaboratives pendant toute la durée du cours. Un éditeur de texte (hedgedoc) est mis à disposition en cliquant sur ce [lien](https://demo.hedgedoc.org/R8VtjHp7SBikJw9USC-JuA#).
+Il est attendu des étudiant·e·s qu'ils prennent des notes collaboratives pendant toute la durée du cours. Un éditeur de texte (hedgedoc) est mis à disposition en cliquant sur ce [lien](https://pad.libreon.fr/6qb9AY0sSiW_36iGCFyNYg?view).
 
-Les notes collaboratives constituent le principal support du cours : il revient aux étudiant·e·s de s'approprier au mieux cet espace et de construire les notes selon la structure qui leur convient le mieux. Les notes ne sont pas seulement un "outil" pour noter ce qui est dit lors de chacune des séances mais doivent aussi faire l'objet de compléments entre les séances (par exemple en ajoutant des références ou en complétant certains aspects, ou encore à inscrire des questions à poser à l'ensemble de la classe, étudiant·e ou enseignant, etc.).
+Les notes collaboratives constituent le principal support du cours: il revient aux étudiant·e·s de s'approprier au mieux cet espace et de construire les notes selon la structure qui leur convient le mieux. Les notes ne sont pas seulement un "outil" pour noter ce qui est dit lors de chacune des séances mais doivent aussi faire l'objet de compléments entre les séances (par exemple en ajoutant des références ou en complétant certains aspects, ou encore à inscrire des questions à poser à l'ensemble de la classe, étudiant·e ou enseignant, etc.).
 
 ::: {.callout-important collapse="true"}
 
@@ -50,7 +50,7 @@ Afin d'illustrer au mieux les problématiques liées aux identités numériques,
 
 ## Objectifs
 
-Le cours est fondé sur la question suivante : comment l’identité est-elle reformulée par les formats
+Le cours est fondé sur la question suivante: comment l’identité est-elle reformulée par les formats
 standardisés des sites Web ?
 Nous y analyserons l’articulation entre des expressions individuelles et les logiques industrielles qui les
 encadrent. Un focus particulier sera fait sur les écritures numériques (notamment sur les réseaux socio-numériques (RSN)) qui mettent en exergue les logiques de fabrication de « traces » (Galinon-Mélénec, Liénard, Zlitni 2019 ; Jeanneret 2019), de mise en scène de l’individu au sein d’un collectif et d’exploitation des « données » ainsi produites.
@@ -82,13 +82,10 @@ Il est souhaité que les étudiant·e·s se munissent de leur ordinateur personn
 Trois modalités d'évaluation permettront aux étudiant·e·s de valider ce cours : 
 
 - Réalisation d'un portrait numérique en binôme 
-    - portrait réalisé **en classe**
-    - résumé critique du processus
+- Un devoir sur table: résumé critique du portrait numérique
 - Un devoir sur table lors de la dernière séance
 
 1. Chaque binôme devra réaliser un portrait. Les portraits seront à déposer sur la plateforme https://coursenligne.parisnanterre.fr pour le **21 février 2025** au plus tard à **23h59**.
-
-2. Il est également demandé à chaque personne d'écrire un résumé critique du processus d'élaboration du portrait en lien avec les notions du cours, à réaliser lors du cours du 05 mars 2025.
 
 ::: {.callout-important}
 
@@ -99,6 +96,9 @@ Pour celles et ceux qui souhaitent former des trinômes :
 - le portrait devra mettre en perspective deux techniques de réalisation différentes (deux objets à rendre)
 
 :::
+
+2. Il est également demandé à chaque personne d'écrire un résumé critique du processus d'élaboration du portrait en lien avec les notions du cours, à réaliser lors du cours du 05 mars 2025.
+
 
 3. Devoir sur table.
 

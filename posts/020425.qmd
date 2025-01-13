@@ -9,7 +9,7 @@ nocite: false
 
 ::: {.callout-note}
 
-[Cliquez ici](https://demo.hedgedoc.org/lU1EOUYpQVa_pUfwnLkqHQ#) pour accéder au pad collaboratif.
+[Cliquez ici](https://pad.libreon.fr/hv7m9LVbSOuqk2-Rj7hq0Q?view) pour accéder au pad collaboratif.
 
 :::
 
