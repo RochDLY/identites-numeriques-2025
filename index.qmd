@@ -62,21 +62,20 @@ Les séances alterneront des "cours magistraux" et des discussions ou échanges 
 
 Il est souhaité que les étudiant·e·s se munissent de leur ordinateur personnel afin de profiter pleinement des enseignements dispensés.
 
-- [22 janvier 2025 - Introduction au cours "Identités numériques"](posts/170124.qmd)
-- [29 janvier 2025 - Définir l'identité numérique](posts/240124.qmd)
-- [05 février 2025 - Des profils préfabriqués](posts/310124.qmd)
-- [12 février 2025 - Des profils préfabriqués (2)](posts/070224.qmd)
-- [19 février 2025 - Réalisation de portraits](posts/140224.qmd)
+- [22 janvier 2025 - Introduction au cours "Identités numériques"](posts/220125.qmd)
+- [29 janvier 2025 - Définir l'identité numérique]<!-- (posts/290125.qmd) -->
+- [05 février 2025 - Des profils préfabriqués]<!-- (posts/050225.qmd) -->
+- [12 février 2025 - Des profils préfabriqués (2)]<!-- (posts/120225.qmd) -->
+- [19 février 2025 - L'identité numérique sous emprise culturelle]<!-- (posts/190225.qmd) -->
 - 26 février 2025 - Semaine de vacances
-- [05 février 2025 - Devoir sur table](posts/280224.qmd)
-- [12 mars 2025 - L'identité numérique sous emprise culturelle](posts/280224.qmd)
-- [19 mars 2025 - Écriture numérique et éditorialisation](posts/060324.qmd)
-<!-- - [ - Traces & capitalisme de surveillance](posts/130324.qmd) -->
-- [26 mars 2025 - Pour une réappropriation collective des traces](posts/200324.qmd)
-- [02 avril 2025 - Le profil : un nouveau territoire imaginaire ?](posts/270324.qmd)
-- [09 avril 2025 - Devoir sur table](posts/030424.qmd)
+- [05 mars 2025 - Devoir sur table]<!-- (posts/020325.qmd) -->
+- [12 mars 2025 - Écriture numérique et éditorialisation]<!-- (posts/120325.qmd) -->
+- [19 mars 2025 - Traces & capitalisme de surveillance]<!-- (posts/190325.qmd) -->
+- [26 mars 2025 - Pour une réappropriation collective des traces]<!-- (posts/260325.qmd) -->
+- [02 avril 2025 - Le profil : un nouveau territoire imaginaire ?]<!-- (posts/020425.qmd) -->
+- [09 avril 2025 - Devoir sur table]<!-- (posts/090425.qmd) -->
 - 16 avril 2025 - Semaine de révisions
-- [23 avril 2025 - Identités numériques et IA](posts/100424.qmd)
+- [23 avril 2025 - Identités numériques et IA]<!-- (posts/230425.qmd) -->
 
 ### Modalités d'évaluations
 
@@ -87,9 +86,9 @@ Trois modalités d'évaluation permettront aux étudiant·e·s de valider ce cou
     - résumé critique du processus
 - Un devoir sur table lors de la dernière séance
 
-1. Chaque binôme devra réaliser un portrait. Les portraits seront à déposer sur la plateforme https://coursenligne.parisnanterre.fr pour le **14 février 2024** au plus tard à **23h59**.
+1. Chaque binôme devra réaliser un portrait. Les portraits seront à déposer sur la plateforme https://coursenligne.parisnanterre.fr pour le **21 février 2025** au plus tard à **23h59**.
 
-2. Il est également demandé à chaque binôme d'écrire un résumé critique du processus d'élaboration du portrait en lien avec les notions du cours (4000 signes espaces compris), à rendre pour le **28 février 2024**. Ce texte doit être déposé sur la même plateforme que l'autoportrait.
+2. Il est également demandé à chaque personne d'écrire un résumé critique du processus d'élaboration du portrait en lien avec les notions du cours, à réaliser lors du cours du 05 mars 2025.
 
 ::: {.callout-important}
 
@@ -97,8 +96,7 @@ Trois modalités d'évaluation permettront aux étudiant·e·s de valider ce cou
 
 Pour celles et ceux qui souhaitent former des trinômes : 
 
-- le portrait devra mettre en perspective deux techniques de réalisation différentes (deux objets à rendre) ;
-- le résumé critique devra comprendre cette nouvelle dimension et passe de 4000 à 6000 signes espaces compris.
+- le portrait devra mettre en perspective deux techniques de réalisation différentes (deux objets à rendre)
 
 :::
 
@@ -109,7 +107,3 @@ Pour celles et ceux qui souhaitent former des trinômes :
 Pensez à apporter des feuilles et des stylos ! L'examen sera un devoir sur table !
 
 :::
-
-## Informations complémentaires
-
-Pour ceux qui souhaitent suivre une formation gratuite, en ligne, sur les écritures numériques en sciences humaines et sociales, vous pouvez suivre [Débugue tes humanités](https://debugue.ecrituresnumeriques.ca/). Débugue est un programme dispensé à l'Université de Montréal par des chercheur·es en humanités numériques. Les séances se déroulent en mode hybride les mardis de 19h à 21h (heure de Paris) à raison de deux séances par mois. Le lien pour se connecter en visioconférence est disponible sur le site Web de la formation.

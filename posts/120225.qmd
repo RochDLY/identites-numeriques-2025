@@ -1,5 +1,5 @@
 ---
-title: "07 février 2024"
+title: "12 février 2025"
 bibliography: ../bibliographie/bibliographie.bib
 nocite: false
 ---
@@ -38,7 +38,7 @@ Lire :
 
 - [@monjour_dibutade_2015]
 
-## Pour dans trois semaines
+## Pour la semaine prochaine
 
 Lire : 
 

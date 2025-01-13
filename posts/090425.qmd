@@ -1,0 +1,58 @@
+---
+title: "09 avril 2025"
+bibliography: ../bibliographie/bibliographie.bib
+nocite: false
+---
+
+## Examen de fin de cours
+
+::: {.callout-warning}
+
+Pensez à apporter des feuilles et des stylos ! L'examen sera un devoir sur table !
+
+:::
+
+
+## Sujets
+
+Support de présentation ([plein écran](/slides/seance12.html){target="_blank"}):
+
+```{=html}
+
+<iframe src="/slides/seance12.html"></iframe>
+```
+
+## Barème de l'évaluation finale
+
+**Niveau 1 (entre 0 et 4/20)**
+
+Manque d’analyse du sujet ce qui mène à avoir des propos trop généraux ou hors sujet. Le plan est
+souvent très descriptif. Il n’y a pas d’exemple ou ceux-ci ne sont pas en lien avec le sujet. Certaines
+phrases sont difficilement lisibles.
+
+**Niveau 2 (entre 5 et 8/20)**
+
+L’analyse du sujet est là mais elle reste lacunaire. L’introduction propose davantage des phrases de
+contexte qu’une analyse des termes. Le plan proposé risque d’être très caricatural (oui/non) ou mal
+organisé. Les titres sont descriptifs et non thématisés. Certaines phrases sont encore difficilement
+lisibles.
+
+**Niveau 3 (entre 8 et 11/20)**
+
+L’analyse du sujet est bonne mais pourrait être plus poussée. Le plan est bien construit mais ne
+verbalise pas assez les idées centrales. L’argumentation manque de profondeur et les exemples ne
+sont pas toujours bien choisis. L’expression est parfois bancale, le sens de certaines phrases est difficile
+à cerner.
+
+**Niveau 4 (entre 12 et 15/20)**
+
+Bonne analyse du sujet qui est bien explicitée dans l’introduction et amène à une problématique claire
+et simple. Le plan est bien organisé et les titres sont problématisés. Les exemples mobilisés sont
+pertinents. Le texte est agréable à lire, les transitions sont manquantes.
+
+**Niveau 5 (16/20 et plus)**
+
+Analyse fine du sujet, servie par un plan bien construit, voire audacieux. Les titres des grandes parties
+et des sous-parties sont problématisés. À l’intérieur des sous-parties, les propos sont fins et illustrés
+par des exemples pertinents et bien analysés. Les transitions rendent l’argumentation fluide et solide.
+Utilisation d’auteurs à-propos, écriture agréable, fluide et précise.
