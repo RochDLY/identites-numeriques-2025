@@ -1,0 +1,38 @@
+---
+title: "03 avril 2024"
+bibliography: ../bibliographie/bibliographie.bib
+nocite: false
+---
+
+## ~~Exploitation des données à travers la théorie des graphes~~ Révisions
+
+Cette séance a été remplacée par une séance de révisions.
+
+~~Ce cours s'appuiera largement sur les travaux de Martin Grandjean, notamment son article ["Structures complexes et organisations internationales : Analyses de réseaux en histoire. L'exemple de la coopération intellectuelle de la Société des Nations"](https://shs.hal.science/halshs-01610098v2) publié en 2017.~~
+
+::: {.callout-note}
+
+[Cliquez ici](https://demo.hedgedoc.org/YHWKpSIcTmqeyA9RQFlGMg#) pour accéder au pad collaboratif.
+
+:::
+
+Support de présentation ([plein écran](/slides/seance11.html){target="_blank"}):
+
+```{=html}
+
+<iframe src="/slides/seance11.html"></iframe>
+```
+
+## Atelier de rédaction
+
+- Les conseils de rédaction
+
+## Les devoirs de la semaine précédente
+
+- Révision :  préparez des questions
+
+## Pour la semaine prochaine
+
+- Examen final : préparez des feuilles et des stylos !
+
+

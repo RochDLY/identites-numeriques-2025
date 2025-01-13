@@ -1,0 +1,45 @@
+---
+title: "07 février 2024"
+bibliography: ../bibliographie/bibliographie.bib
+nocite: false
+---
+
+## Des "profils préfabriqués (2)"
+
+::: {.callout-note}
+
+[Cliquez ici](https://demo.hedgedoc.org/J75u7TFtT0uWby_Yimgiqg#) pour accéder au pad collaboratif.
+
+:::
+
+
+Support de présentation ([plein écran](/slides/seance4.html){target="_blank"}):
+
+```{=html}
+
+<iframe src="/slides/seance4.html"></iframe>
+```
+
+
+
+::: {.callout-note}
+
+##### Citation
+
+> Nous ne savons qualifier les outils techniques nouveaux que par des métaphores, qui nous les représentent dans les termes de réalités que nous connaissons [...] les métaphores qui désignent les objets les masquent par le même mouvement." 
+
+- Jeanneret, *Y a-t-il vraiment des technologies de l’information ?* 2007. p.39.
+
+:::
+
+## Les devoirs de la semaine précédente
+
+Lire : 
+
+- [@monjour_dibutade_2015]
+
+## Pour dans trois semaines
+
+Lire : 
+
+- [@georges_identite_2011]

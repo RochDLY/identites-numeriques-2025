@@ -1,0 +1,37 @@
+---
+title: "13 mars 2024"
+bibliography: ../bibliographie/bibliographie.bib
+nocite: false
+---
+
+##  Traces & capitalisme de surveillance
+
+### Débat
+
+Le débat doit être initié à partir des documents à consulter pour aujourd'hui.
+
+::: {.callout-note}
+
+[Cliquez ici](https://demo.hedgedoc.org/ke-39cOsSZi56tVnK3yItA#) pour accéder au pad collaboratif.
+
+:::
+
+
+## Atelier
+
+Correction du travail effectué sur le portrait.
+
+## Les devoirs de la semaine précédente
+
+Lire et visionner : 
+
+- Le texte de Christophe Masutti : https://framablog.org/2022/08/29/bifurquer-avant-limpact-limpasse-du-capitalisme-de-surveillance/
+- Une table ronde sur la chaîne Arte "le vol des données personnelles" : https://www.arte.tv/fr/videos/106527-030-A/27/
+
+
+
+## Pour la semaine prochaine
+
+Lire : 
+
+- [@merzeau_lintelligence_2013]

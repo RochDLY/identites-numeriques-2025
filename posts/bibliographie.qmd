@@ -1,0 +1,11 @@
+---
+title: "Bibliographie"
+bibliography: ../bibliographie/bibliographie.bib
+nocite: |
+  @*
+---
+
+## Références
+
+::: {#refs}
+:::

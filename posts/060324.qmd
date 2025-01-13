@@ -1,0 +1,39 @@
+---
+title: "06 mars 2024"
+bibliography: ../bibliographie/bibliographie.bib
+nocite: false
+---
+
+## Écriture numérique et éditorialisation
+
+::: {.callout-note}
+
+[Cliquez ici](https://demo.hedgedoc.org/lWUhVJ8CR4GpbYoAU3PauA#) pour accéder au pad collaboratif.
+
+:::
+
+Support de présentation ([plein écran](/slides/seance7.html){target="_blank"}):
+
+```{=html}
+
+<iframe src="/slides/seance7.html"></iframe>
+```
+
+
+## Atelier 
+
+[![L'éditorialisation présentée par Marcello Vitali-Rosati](https://webtv.univ-rouen.fr/public/videos/v125a98df8895hojvfvuesee4j2res/thumb.jpg)](https://webtv.univ-rouen.fr/videos/20-03-2018-095823-partie-2/)
+
+## Les devoirs de la semaine précédente
+
+Lire : 
+
+- [@merzeau_editorialisation_2013]
+
+## Pour la semaine prochaine 
+
+Lire et visionner : 
+
+- Le texte de Christophe Masutti : https://framablog.org/2022/08/29/bifurquer-avant-limpact-limpasse-du-capitalisme-de-surveillance/
+- Une table ronde sur la chaîne Arte "le vol des données personnelles" : https://www.arte.tv/fr/videos/106527-030-A/27/
+

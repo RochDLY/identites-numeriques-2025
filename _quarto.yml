@@ -1,0 +1,48 @@
+project:
+  type: website
+
+website:
+  title: "Identités numériques 2024-2025"
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - index.qmd
+      - posts/bibliographie.qmd
+      - section: "Séances de cours"
+        contents:
+          - posts/170124.qmd
+          - posts/240124.qmd
+          - posts/310124.qmd
+          - posts/070224.qmd
+          - posts/140224.qmd
+          - posts/280224.qmd
+          - posts/060324.qmd
+          - posts/130324.qmd
+          - posts/200324.qmd
+          - posts/270324.qmd
+          - posts/030424.qmd
+          - posts/100424.qmd
+      - section: "Outils"
+        contents:
+          #          - tools/escriptorium.qmd
+#          - tools/gephi.qmd
+          #          - tools/git.qmd
+          #          - tools/hypothesis.qmd
+          #          - tools/isidore.qmd
+          #          - tools/omeka.qmd
+          #          - tools/opentheso.qmd
+          - tools/redaction.qmd
+#          - tools/stylo.qmd
+#          - tools/terminal.qmd
+  #          - tools/voyant-tools.qmd
+  #          - tools/zotero.qmd
+  page-footer:
+    left: "© 2025 WTFPL, Roch Delannay"
+    right: "Ce site a été réalisé avec [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true

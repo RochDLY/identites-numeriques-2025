@@ -1,0 +1,33 @@
+---
+title: "27 mars 2024"
+bibliography: ../bibliographie/bibliographie.bib
+nocite: false
+---
+
+## Le profil : un nouveau territoire imaginaire ?
+
+
+::: {.callout-note}
+
+[Cliquez ici](https://demo.hedgedoc.org/lU1EOUYpQVa_pUfwnLkqHQ#) pour accéder au pad collaboratif.
+
+:::
+
+Support de présentation ([plein écran](/slides/seance9.html){target="_blank"}):
+
+```{=html}
+
+<iframe src="/slides/seance9.html"></iframe>
+```
+
+## Les devoirs de la semaine précédente
+
+Lire : 
+
+- [@merzeau_profil_2018]
+
+## Pour la semaine prochaine
+
+1. Révisions :
+    - notez vos questions en lien avec le cours
+    - lire la fiche des [conseils de rédaction](/tools/redaction.qmd) et notez vos questions

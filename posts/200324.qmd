@@ -1,0 +1,32 @@
+---
+title: "20 mars 2024"
+bibliography: ../bibliographie/bibliographie.bib
+nocite: false
+---
+
+## Pour une réappropriation collective des traces
+
+::: {.callout-note}
+
+[Cliquez ici](https://demo.hedgedoc.org/OAUTj0xcSm2bpsJZ9DASOA#) pour accéder au pad collaboratif.
+
+:::
+
+Support de présentation ([plein écran](/slides/seance8.html){target="_blank"}):
+
+```{=html}
+
+<iframe src="/slides/seance8.html"></iframe>
+```
+
+## Les devoirs de la semaine précédente
+
+Lire :
+
+- [@merzeau_lintelligence_2013]
+
+## Pour la semaine prochaine
+
+Lire : 
+
+- [@merzeau_profil_2018]

@@ -1,0 +1,115 @@
+---
+title: "Plan de cours"
+---
+
+## Identités numériques
+
+Le cours "Identités numériques" est dispensé à l'Université Paris Nanterre au second semestre de l'année 2024-2025.
+
+### Informations pratiques
+
+Cours en présentiel le mercredi de 10h30 à 12h30 dans la salle LR 15 au bâtiment Ricoeur.  
+
+Roch Delannay - rdelannay@parisnanterre.fr
+
+::: {.callout-note}
+
+Lorsque vous souhaitez m'envoyer un courriel, merci d'indiquer la mention "\[Identités numériques\]" entre crochets au début de chaque objet attaché au message. 
+
+Exemple d'objet de courriel : \[Identités numériques\] Questions relatives au cours du 22 janvier 2025.
+
+:::
+
+### Note importante
+
+Ce cours est programmé en présentiel à partir du mercredi 22 janvier 2025, les étudiant·e·s doivent donc être présent·e·s à toutes les séances tant que les conditions le permettent. Ce plan de cours est susceptible d’évoluer, les étudiant·e·s seront prévenu·e·s au fur et à mesure.
+
+### Présence et participation 
+
+Votre présence en cours est obligatoire (dans la limite de trois absences non justifiées). La présence n’est pas évaluée mais je note qui est présent en classe. En suivant ce cours vous vous engagez à venir autant que possible à chaque séance et à suivre les recommandations suivantes :
+
+- préparation : lectures demandées et relecture du cours ;
+- concentration : éviter les distractions pendant les séances ;
+- être actif·ve : écouter le cours, participer aux manipulations, poser des questions ;
+- écouter : lorsque d’autres étudiant·e·s prennent la parole, écoutez-les ;
+- créer des connexions : synthétiser et mettre en rapport les différents contenus présentés.
+
+::: {.callout-note}
+
+Il est attendu des étudiant·e·s qu'ils prennent des notes collaboratives pendant toute la durée du cours. Un éditeur de texte (hedgedoc) est mis à disposition en cliquant sur ce [lien](https://demo.hedgedoc.org/R8VtjHp7SBikJw9USC-JuA#).
+
+Les notes collaboratives constituent le principal support du cours : il revient aux étudiant·e·s de s'approprier au mieux cet espace et de construire les notes selon la structure qui leur convient le mieux. Les notes ne sont pas seulement un "outil" pour noter ce qui est dit lors de chacune des séances mais doivent aussi faire l'objet de compléments entre les séances (par exemple en ajoutant des références ou en complétant certains aspects, ou encore à inscrire des questions à poser à l'ensemble de la classe, étudiant·e ou enseignant, etc.).
+
+::: {.callout-important collapse="true"}
+
+Afin d'illustrer au mieux les problématiques liées aux identités numériques, il est demandé aux étudiant·e·s de s'authentifier sur l'application Hedgedoc (par exemple via l'instance GitHub pour ne pas multiplier les identifiants).
+
+:::
+
+:::
+
+## Objectifs
+
+Le cours est fondé sur la question suivante : comment l’identité est-elle reformulée par les formats
+standardisés des sites Web ?
+Nous y analyserons l’articulation entre des expressions individuelles et les logiques industrielles qui les
+encadrent. Un focus particulier sera fait sur les écritures numériques (notamment sur les réseaux socio-numériques (RSN)) qui mettent en exergue les logiques de fabrication de « traces » (Galinon-Mélénec, Liénard, Zlitni 2019 ; Jeanneret 2019), de mise en scène de l’individu au sein d’un collectif et d’exploitation des « données » ainsi produites.
+
+
+### Organisation des séances
+
+Les séances alterneront des "cours magistraux" et des discussions ou échanges autour d'exemples illustrant les notions théoriques abordées lors des cours magistraux. 
+
+Il est souhaité que les étudiant·e·s se munissent de leur ordinateur personnel afin de profiter pleinement des enseignements dispensés.
+
+- [22 janvier 2025 - Introduction au cours "Identités numériques"](posts/170124.qmd)
+- [29 janvier 2025 - Définir l'identité numérique](posts/240124.qmd)
+- [05 février 2025 - Des profils préfabriqués](posts/310124.qmd)
+- [12 février 2025 - Des profils préfabriqués (2)](posts/070224.qmd)
+- [19 février 2025 - Réalisation de portraits](posts/140224.qmd)
+- 26 février 2025 - Semaine de vacances
+- [05 février 2025 - Devoir sur table](posts/280224.qmd)
+- [12 mars 2025 - L'identité numérique sous emprise culturelle](posts/280224.qmd)
+- [19 mars 2025 - Écriture numérique et éditorialisation](posts/060324.qmd)
+<!-- - [ - Traces & capitalisme de surveillance](posts/130324.qmd) -->
+- [26 mars 2025 - Pour une réappropriation collective des traces](posts/200324.qmd)
+- [02 avril 2025 - Le profil : un nouveau territoire imaginaire ?](posts/270324.qmd)
+- [09 avril 2025 - Devoir sur table](posts/030424.qmd)
+- 16 avril 2025 - Semaine de révisions
+- [23 avril 2025 - Identités numériques et IA](posts/100424.qmd)
+
+### Modalités d'évaluations
+
+Trois modalités d'évaluation permettront aux étudiant·e·s de valider ce cours : 
+
+- Réalisation d'un portrait numérique en binôme 
+    - portrait réalisé **en classe**
+    - résumé critique du processus
+- Un devoir sur table lors de la dernière séance
+
+1. Chaque binôme devra réaliser un portrait. Les portraits seront à déposer sur la plateforme https://coursenligne.parisnanterre.fr pour le **14 février 2024** au plus tard à **23h59**.
+
+2. Il est également demandé à chaque binôme d'écrire un résumé critique du processus d'élaboration du portrait en lien avec les notions du cours (4000 signes espaces compris), à rendre pour le **28 février 2024**. Ce texte doit être déposé sur la même plateforme que l'autoportrait.
+
+::: {.callout-important}
+
+### Trinômes
+
+Pour celles et ceux qui souhaitent former des trinômes : 
+
+- le portrait devra mettre en perspective deux techniques de réalisation différentes (deux objets à rendre) ;
+- le résumé critique devra comprendre cette nouvelle dimension et passe de 4000 à 6000 signes espaces compris.
+
+:::
+
+3. Devoir sur table.
+
+::: {.callout-warning}
+
+Pensez à apporter des feuilles et des stylos ! L'examen sera un devoir sur table !
+
+:::
+
+## Informations complémentaires
+
+Pour ceux qui souhaitent suivre une formation gratuite, en ligne, sur les écritures numériques en sciences humaines et sociales, vous pouvez suivre [Débugue tes humanités](https://debugue.ecrituresnumeriques.ca/). Débugue est un programme dispensé à l'Université de Montréal par des chercheur·es en humanités numériques. Les séances se déroulent en mode hybride les mardis de 19h à 21h (heure de Paris) à raison de deux séances par mois. Le lien pour se connecter en visioconférence est disponible sur le site Web de la formation.

@@ -1,0 +1,30 @@
+---
+title: "31 janvier 2024"
+bibliography: ../bibliographie/bibliographie.bib
+nocite: false
+---
+
+## Des "profils préfabriqués"
+
+::: {.callout-note}
+
+[Cliquez ici](https://demo.hedgedoc.org/sE80V7f8RAy8_LJeIOnvJA#) pour accéder au pad collaboratif.
+
+:::
+
+Support de présentation ([plein écran](/slides/seance3.html){target="_blank"}):
+
+```{=html}
+
+<iframe src="/slides/seance3.html"></iframe>
+```
+
+## Les devoirs de la semaine précédente
+
+1. Construire une liste de liens (URL) menant à des portraits ou autoportraits sur le Web (à mettre dans Hedgedoc).  
+
+## Pour la semaine prochaine 
+
+Lire : 
+
+- [@monjour_dibutade_2015]

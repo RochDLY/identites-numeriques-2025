@@ -1,0 +1,39 @@
+---
+title: "24 janvier 2024"
+bibliography: ../bibliographie/bibliographie.bib
+nocite: false
+---
+
+## Définir l'identité numérique
+
+::: {.callout-note}
+
+[Cliquez ici](https://demo.hedgedoc.org/l9lMwEydS8S0kMklVSScBA#) pour accéder au pad collaboratif.
+
+:::
+
+Support de présentation ([plein écran](/slides/seance2.html){target="_blank"}):
+
+```{=html}
+
+<iframe src="/slides/seance2.html"></iframe>
+```
+
+## Les devoirs de la semaine précédente
+
+### Lecture obligatoire
+
+- Lire [@ertzscheid_chapitre_2013]
+
+### Lecture optionnelle
+
+- [@cardon_identite_2019]
+
+### Exercice
+
+1. Réaliser le tutoriel du langage de balisage Markdown : https://www.arthurperret.fr/tutomd/tutorial/tutorial.html ;
+2. Se présenter en 3 lignes dans le pad du 17 janvier 2024.
+
+## Pour la semaine prochaine
+
+1. Construire une liste de liens (URL) menant à des portraits ou autoportraits sur le Web (à mettre dans Hedgedoc).  

@@ -1,0 +1,43 @@
+---
+title: "17 janvier 2024"
+bibliography: ../bibliographie/bibliographie.bib
+nocite: false
+---
+
+## Introduction au cours «Identités numériques»
+
+Bienvenue à toutes et à tous à notre premier cours sur les Identités numériques.
+
+::: {.callout-note}
+
+[Cliquez ici](https://demo.hedgedoc.org/rqHJGB0iRDO3HYGFYKlKmg#) pour accéder au pad collaboratif.
+
+:::
+
+Support de présentation ([plein écran](/slides/seance1.html){target="_blank"}):
+
+```{=html}
+
+<iframe src="/slides/seance1.html"></iframe>
+```
+
+## Pour la semaine prochaine
+
+### Lecture obligatoire
+
+- Lire [@ertzscheid_chapitre_2013]
+
+### Lecture optionnelle
+
+- [@cardon_identite_2019]
+
+### Exercice
+
+1. Réaliser le tutoriel du langage de balisage Markdown : https://www.arthurperret.fr/tutomd/tutorial/tutorial.html ;
+2. Se présenter en 3 lignes dans le pad du 17 janvier 2024.
+
+::: {.callout-caution}
+
+Attention à ne pas effacer les informations ajoutées par les autres étudiant·e·s !
+
+:::
