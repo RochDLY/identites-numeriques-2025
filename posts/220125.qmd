@@ -34,7 +34,7 @@ Support de présentation ([plein écran](/slides/seance1.html){target="_blank"})
 ### Exercice
 
 1. Réaliser le tutoriel du langage de balisage Markdown : https://www.arthurperret.fr/tutomd/tutorial/tutorial.html ;
-2. Se présenter en 3 lignes dans le pad du 17 janvier 2024.
+2. Se présenter en 3 lignes dans le pad du 22 janvier 2025.
 
 ::: {.callout-caution}
 

@@ -63,7 +63,7 @@ Les séances alterneront des "cours magistraux" et des discussions ou échanges 
 Il est souhaité que les étudiant·e·s se munissent de leur ordinateur personnel afin de profiter pleinement des enseignements dispensés.
 
 - [22 janvier 2025 - Introduction au cours "Identités numériques"](posts/220125.qmd)
-- [29 janvier 2025 - Définir l'identité numérique]<!-- (posts/290125.qmd) -->
+- [29 janvier 2025 - Définir l'identité numérique](posts/290125.qmd)
 - [05 février 2025 - Des profils préfabriqués]<!-- (posts/050225.qmd) -->
 - [12 février 2025 - Des profils préfabriqués (2)]<!-- (posts/120225.qmd) -->
 - [19 février 2025 - L'identité numérique sous emprise culturelle]<!-- (posts/190225.qmd) -->
@@ -83,7 +83,7 @@ Trois modalités d'évaluation permettront aux étudiant·e·s de valider ce cou
 
 - Réalisation d'un portrait numérique en binôme 
 - Un devoir sur table: résumé critique du portrait numérique
-- Un devoir sur table lors de la dernière séance
+- Un devoir sur table lors de la séance du 09 avril 2025
 
 1. Chaque binôme devra réaliser un portrait. Les portraits seront à déposer sur la plateforme https://coursenligne.parisnanterre.fr pour le **21 février 2025** au plus tard à **23h59**.
 

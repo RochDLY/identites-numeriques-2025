@@ -14,7 +14,7 @@ website:
       - section: "Séances de cours"
         contents:
           - posts/220125.qmd
-#          - posts/290125.qmd
+          - posts/290125.qmd
 #          - posts/050225.qmd
 #          - posts/120225.qmd
 #          - posts/190225.qmd
