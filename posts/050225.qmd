@@ -21,7 +21,7 @@ Support de présentation ([plein écran](/slides/seance3.html){target="_blank"})
 
 ## Les devoirs de la semaine précédente
 
-1. Construire une liste de liens (URL) menant à des portraits ou autoportraits sur le Web (à mettre dans Hedgedoc).  
+1. Construire une liste de liens (URL) menant à des portraits ou autoportraits sur le Web (à mettre dans Hedgedoc). 
 
 ## Pour la semaine prochaine 
 

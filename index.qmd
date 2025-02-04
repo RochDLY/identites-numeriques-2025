@@ -64,7 +64,7 @@ Il est souhaité que les étudiant·e·s se munissent de leur ordinateur personn
 
 - [22 janvier 2025 - Introduction au cours "Identités numériques"](posts/220125.qmd)
 - [29 janvier 2025 - Définir l'identité numérique](posts/290125.qmd)
-- [05 février 2025 - Des profils préfabriqués]<!-- (posts/050225.qmd) -->
+- [05 février 2025 - Des profils préfabriqués](posts/050225.qmd)
 - [12 février 2025 - Des profils préfabriqués (2)]<!-- (posts/120225.qmd) -->
 - [19 février 2025 - L'identité numérique sous emprise culturelle]<!-- (posts/190225.qmd) -->
 - 26 février 2025 - Semaine de vacances
@@ -82,7 +82,7 @@ Il est souhaité que les étudiant·e·s se munissent de leur ordinateur personn
 Trois modalités d'évaluation permettront aux étudiant·e·s de valider ce cours : 
 
 - Réalisation d'un portrait numérique en binôme 
-- Un devoir sur table: résumé critique du portrait numérique
+- Un devoir sur table: analyse critique du portrait numérique
 - Un devoir sur table lors de la séance du 09 avril 2025
 
 1. Chaque binôme devra réaliser un portrait. Les portraits seront à déposer sur la plateforme https://coursenligne.parisnanterre.fr pour le **21 février 2025** au plus tard à **23h59**.
@@ -97,7 +97,7 @@ Pour celles et ceux qui souhaitent former des trinômes :
 
 :::
 
-2. Il est également demandé à chaque personne d'écrire un résumé critique du processus d'élaboration du portrait en lien avec les notions du cours, à réaliser lors du cours du 05 mars 2025.
+2. Il est également demandé à chaque personne d'écrire une analyse critique du processus d'élaboration du portrait en lien avec les notions du cours, à réaliser lors du cours du 05 mars 2025.
 
 
 3. Devoir sur table.
