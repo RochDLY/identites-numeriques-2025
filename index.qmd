@@ -65,7 +65,7 @@ Il est souhaité que les étudiant·e·s se munissent de leur ordinateur personn
 - [22 janvier 2025 - Introduction au cours "Identités numériques"](posts/220125.qmd)
 - [29 janvier 2025 - Définir l'identité numérique](posts/290125.qmd)
 - [05 février 2025 - Des profils préfabriqués](posts/050225.qmd)
-- [12 février 2025 - Des profils préfabriqués (2)]<!-- (posts/120225.qmd) -->
+- [12 février 2025 - Des profils préfabriqués (2)](posts/120225.qmd)
 - [19 février 2025 - L'identité numérique sous emprise culturelle]<!-- (posts/190225.qmd) -->
 - 26 février 2025 - Semaine de vacances
 - [05 mars 2025 - Devoir sur table]<!-- (posts/020325.qmd) -->
