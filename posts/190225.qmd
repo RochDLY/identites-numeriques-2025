@@ -12,23 +12,28 @@ nocite: false
 
 :::
 
-Support de présentation ([plein écran](/slides/seance6.html){target="_blank"}):
+Support de présentation ([plein écran](/slides/seance5.html){target="_blank"}):
 
 ```{=html}
 
-<iframe src="/slides/seance6.html"></iframe>
+<iframe src="/slides/seance5.html"></iframe>
 ```
 
 
 ## Les devoirs de la semaine précédente
- 
 
-- Déposer sur cours en ligne la critique du portrait  
 - Lire [@georges_identite_2011]
 
+## Pour vendredi 21 février
 
-## Pour la semaine prochaine
+- Déposer les portraits sur la plateforme coursenligne
 
-Lire : 
+## Pour mercredi 05 mars
 
-- [@merzeau_editorialisation_2013]
+- Préparer le devoir sur table
+
+::: {.callout-warning}
+
+Pensez à apporter des feuilles et des stylos ! L'examen sera un devoir sur table !
+
+:::

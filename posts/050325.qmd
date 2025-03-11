@@ -4,7 +4,7 @@ bibliography: ../bibliographie/bibliographie.bib
 nocite: false
 ---
 
-## Examen de fin de cours
+## Devoir sur table
 
 ::: {.callout-warning}
 
@@ -15,12 +15,12 @@ Pensez à apporter des feuilles et des stylos ! L'examen sera un devoir sur tabl
 
 ## Sujets
 
-<!-- Support de présentation ([plein écran](/slides/seance12.html){target="_blank"}):
+Support de présentation ([plein écran](/slides/seance6.html){target="_blank"}):
 
 ```{=html}
 
-<iframe src="/slides/seance12.html"></iframe>
-``` -->
+<iframe src="/slides/seance6.html"></iframe>
+```
 
 ## Barème de l'évaluation finale
 
@@ -56,3 +56,10 @@ Analyse fine du sujet, servie par un plan bien construit, voire audacieux. Les t
 et des sous-parties sont problématisés. À l’intérieur des sous-parties, les propos sont fins et illustrés
 par des exemples pertinents et bien analysés. Les transitions rendent l’argumentation fluide et solide.
 Utilisation d’auteurs à-propos, écriture agréable, fluide et précise.
+
+
+## Pour la semaine prochaine
+
+Lire : 
+
+- [@merzeau_editorialisation_2013]

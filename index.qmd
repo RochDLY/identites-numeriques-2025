@@ -66,10 +66,10 @@ Il est souhaité que les étudiant·e·s se munissent de leur ordinateur personn
 - [29 janvier 2025 - Définir l'identité numérique](posts/290125.qmd)
 - [05 février 2025 - Des profils préfabriqués](posts/050225.qmd)
 - [12 février 2025 - Des profils préfabriqués (2)](posts/120225.qmd)
-- [19 février 2025 - L'identité numérique sous emprise culturelle]<!-- (posts/190225.qmd) -->
+- [19 février 2025 - L'identité numérique sous emprise culturelle](posts/190225.qmd)
 - 26 février 2025 - Semaine de vacances
-- [05 mars 2025 - Devoir sur table]<!-- (posts/020325.qmd) -->
-- [12 mars 2025 - Écriture numérique et éditorialisation]<!-- (posts/120325.qmd) -->
+- [05 mars 2025 - Devoir sur table](posts/050325.qmd)
+- [12 mars 2025 - Écriture numérique et éditorialisation](posts/120325.qmd)
 - [19 mars 2025 - Traces & capitalisme de surveillance]<!-- (posts/190325.qmd) -->
 - [26 mars 2025 - Pour une réappropriation collective des traces]<!-- (posts/260325.qmd) -->
 - [02 avril 2025 - Le profil : un nouveau territoire imaginaire ?]<!-- (posts/020425.qmd) -->

@@ -17,9 +17,9 @@ website:
           - posts/290125.qmd
           - posts/050225.qmd
           - posts/120225.qmd
-#          - posts/190225.qmd
-#          - posts/050325.qmd
-#          - posts/120325.qmd
+          - posts/190225.qmd
+          - posts/050325.qmd
+          - posts/120325.qmd
 #          - posts/190325.qmd
 #          - posts/260325.qmd
 #          - posts/020425.qmd
