@@ -20,9 +20,9 @@ website:
           - posts/190225.qmd
           - posts/050325.qmd
           - posts/120325.qmd
-#          - posts/190325.qmd
-#          - posts/260325.qmd
-#          - posts/020425.qmd
+          - posts/190325.qmd
+          - posts/260325.qmd
+          - posts/020425.qmd
 #          - posts/090425.qmd
 #          - posts/230425.qmd
       - section: "Outils"
