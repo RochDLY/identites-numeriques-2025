@@ -15,12 +15,12 @@ Pensez à apporter des feuilles et des stylos ! L'examen sera un devoir sur tabl
 
 ## Sujets
 
-<!-- Support de présentation ([plein écran](/slides/seance12.html){target="_blank"}):
+Support de présentation ([plein écran](/slides/seance10.html){target="_blank"}):
 
 ```{=html}
 
-<iframe src="/slides/seance12.html"></iframe>
-``` -->
+<iframe src="/slides/seance10.html"></iframe>
+```
 
 ## Barème de l'évaluation finale
 

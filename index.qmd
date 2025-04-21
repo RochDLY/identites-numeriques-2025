@@ -73,9 +73,9 @@ Il est souhaité que les étudiant·e·s se munissent de leur ordinateur personn
 - [19 mars 2025 - Traces & capitalisme de surveillance](posts/190325.qmd)
 - [26 mars 2025 - Pour une réappropriation collective des traces](posts/260325.qmd)
 - [02 avril 2025 - Le profil : un nouveau territoire imaginaire ?](posts/020425.qmd)
-- [09 avril 2025 - Devoir sur table]<!-- (posts/090425.qmd) -->
+- [09 avril 2025 - Devoir sur table](posts/090425.qmd)
 - 16 avril 2025 - Semaine de révisions
-- [23 avril 2025 - Identités numériques et IA]<!-- (posts/230425.qmd) -->
+- [23 avril 2025 - Identités numériques et IA](posts/230425.qmd)
 
 ### Modalités d'évaluations
 

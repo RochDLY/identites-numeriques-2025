@@ -23,8 +23,8 @@ website:
           - posts/190325.qmd
           - posts/260325.qmd
           - posts/020425.qmd
-#          - posts/090425.qmd
-#          - posts/230425.qmd
+          - posts/090425.qmd
+          - posts/230425.qmd
       - section: "Outils"
         contents:
           #          - tools/escriptorium.qmd

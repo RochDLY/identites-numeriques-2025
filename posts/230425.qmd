@@ -12,9 +12,13 @@ nocite: false
 
 :::
 
-<!-- Support de présentation ([plein écran](/slides/seance12.html){target="_blank"}):
+## Ressources
 
-```{=html}
-
-<iframe src="/slides/seance12.html"></iframe>
-``` -->
+- [Page Wikipédia sur l'intelligence artificielle](https://fr.wikipedia.org/wiki/Intelligence_artificielle)
+- [L'Entscheidungsproblem - La fin des mathématiques ?](https://www.arte.tv/fr/videos/107398-010-A/voyages-au-pays-des-maths/)
+- [IA, réducteur culturel : vers un monde de similitudes](https://framablog.org/2025/04/20/ia-reducteur-culturel-vers-un-monde-de-similitudes/), par Framasoft
+- [Bullshit sur Graf'hit](https://framablog.org/2025/04/08/bullshit-sur-grafhit/), par Stéphane Crozat
+- [ChatGPT et la tronçonneuse](https://blog.sens-public.org/marcellovitalirosati/chatgpttronconneuse.html), par Marcello Vitali-Rosati
+- [AINOW Institute](https://ainowinstitute.org/)
+- [Silicon fucking valley](https://www.arte.tv/fr/videos/112822-001-A/silicon-fucking-valley-1-6/)
+- [Curation FramamIA](https://curation.framamia.org/)
