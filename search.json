@@ -156,28 +156,44 @@
     "href": "posts/090425.html",
     "title": "09 avril 2025",
     "section": "",
-    "text": "Warning\n\n\n\nPensez à apporter des feuilles et des stylos ! L’examen sera un devoir sur table !"
+    "text": "Warning\n\n\n\nPensez à apporter des feuilles et des stylos ! L’examen sera un devoir sur table !",
+    "crumbs": [
+      "Séances de cours",
+      "09 avril 2025"
+    ]
   },
   {
     "objectID": "posts/090425.html#examen-de-fin-de-cours",
     "href": "posts/090425.html#examen-de-fin-de-cours",
     "title": "09 avril 2025",
     "section": "",
-    "text": "Warning\n\n\n\nPensez à apporter des feuilles et des stylos ! L’examen sera un devoir sur table !"
+    "text": "Warning\n\n\n\nPensez à apporter des feuilles et des stylos ! L’examen sera un devoir sur table !",
+    "crumbs": [
+      "Séances de cours",
+      "09 avril 2025"
+    ]
   },
   {
     "objectID": "posts/090425.html#sujets",
     "href": "posts/090425.html#sujets",
     "title": "09 avril 2025",
     "section": "Sujets",
-    "text": "Sujets"
+    "text": "Sujets\nSupport de présentation (plein écran):",
+    "crumbs": [
+      "Séances de cours",
+      "09 avril 2025"
+    ]
   },
   {
     "objectID": "posts/090425.html#barème-de-lévaluation-finale",
     "href": "posts/090425.html#barème-de-lévaluation-finale",
     "title": "09 avril 2025",
     "section": "Barème de l’évaluation finale",
-    "text": "Barème de l’évaluation finale\nNiveau 1 (entre 0 et 4/20)\nManque d’analyse du sujet ce qui mène à avoir des propos trop généraux ou hors sujet. Le plan est souvent très descriptif. Il n’y a pas d’exemple ou ceux-ci ne sont pas en lien avec le sujet. Certaines phrases sont difficilement lisibles.\nNiveau 2 (entre 5 et 8/20)\nL’analyse du sujet est là mais elle reste lacunaire. L’introduction propose davantage des phrases de contexte qu’une analyse des termes. Le plan proposé risque d’être très caricatural (oui/non) ou mal organisé. Les titres sont descriptifs et non thématisés. Certaines phrases sont encore difficilement lisibles.\nNiveau 3 (entre 8 et 11/20)\nL’analyse du sujet est bonne mais pourrait être plus poussée. Le plan est bien construit mais ne verbalise pas assez les idées centrales. L’argumentation manque de profondeur et les exemples ne sont pas toujours bien choisis. L’expression est parfois bancale, le sens de certaines phrases est difficile à cerner.\nNiveau 4 (entre 12 et 15/20)\nBonne analyse du sujet qui est bien explicitée dans l’introduction et amène à une problématique claire et simple. Le plan est bien organisé et les titres sont problématisés. Les exemples mobilisés sont pertinents. Le texte est agréable à lire, les transitions sont manquantes.\nNiveau 5 (16/20 et plus)\nAnalyse fine du sujet, servie par un plan bien construit, voire audacieux. Les titres des grandes parties et des sous-parties sont problématisés. À l’intérieur des sous-parties, les propos sont fins et illustrés par des exemples pertinents et bien analysés. Les transitions rendent l’argumentation fluide et solide. Utilisation d’auteurs à-propos, écriture agréable, fluide et précise."
+    "text": "Barème de l’évaluation finale\nNiveau 1 (entre 0 et 4/20)\nManque d’analyse du sujet ce qui mène à avoir des propos trop généraux ou hors sujet. Le plan est souvent très descriptif. Il n’y a pas d’exemple ou ceux-ci ne sont pas en lien avec le sujet. Certaines phrases sont difficilement lisibles.\nNiveau 2 (entre 5 et 8/20)\nL’analyse du sujet est là mais elle reste lacunaire. L’introduction propose davantage des phrases de contexte qu’une analyse des termes. Le plan proposé risque d’être très caricatural (oui/non) ou mal organisé. Les titres sont descriptifs et non thématisés. Certaines phrases sont encore difficilement lisibles.\nNiveau 3 (entre 8 et 11/20)\nL’analyse du sujet est bonne mais pourrait être plus poussée. Le plan est bien construit mais ne verbalise pas assez les idées centrales. L’argumentation manque de profondeur et les exemples ne sont pas toujours bien choisis. L’expression est parfois bancale, le sens de certaines phrases est difficile à cerner.\nNiveau 4 (entre 12 et 15/20)\nBonne analyse du sujet qui est bien explicitée dans l’introduction et amène à une problématique claire et simple. Le plan est bien organisé et les titres sont problématisés. Les exemples mobilisés sont pertinents. Le texte est agréable à lire, les transitions sont manquantes.\nNiveau 5 (16/20 et plus)\nAnalyse fine du sujet, servie par un plan bien construit, voire audacieux. Les titres des grandes parties et des sous-parties sont problématisés. À l’intérieur des sous-parties, les propos sont fins et illustrés par des exemples pertinents et bien analysés. Les transitions rendent l’argumentation fluide et solide. Utilisation d’auteurs à-propos, écriture agréable, fluide et précise.",
+    "crumbs": [
+      "Séances de cours",
+      "09 avril 2025"
+    ]
   },
   {
     "objectID": "posts/260325.html",
@@ -236,6 +252,13 @@
     "title": "23 avril 2025",
     "section": "",
     "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+  },
+  {
+    "objectID": "posts/230425.html#ressources",
+    "href": "posts/230425.html#ressources",
+    "title": "23 avril 2025",
+    "section": "Ressources",
+    "text": "Ressources\n\nPage Wikipédia sur l’intelligence artificielle\nL’Entscheidungsproblem - La fin des mathématiques ?\nIA, réducteur culturel : vers un monde de similitudes, par Framasoft\nBullshit sur Graf’hit, par Stéphane Crozat\nChatGPT et la tronçonneuse, par Marcello Vitali-Rosati\nAINOW Institute\nSilicon fucking valley\nCuration FramamIA"
   },
   {
     "objectID": "tools/redaction.html",
@@ -411,7 +434,7 @@
     "href": "index.html#objectifs",
     "title": "Plan de cours",
     "section": "Objectifs",
-    "text": "Objectifs\nLe cours est fondé sur la question suivante: comment l’identité est-elle reformulée par les formats standardisés des sites Web ? Nous y analyserons l’articulation entre des expressions individuelles et les logiques industrielles qui les encadrent. Un focus particulier sera fait sur les écritures numériques (notamment sur les réseaux socio-numériques (RSN)) qui mettent en exergue les logiques de fabrication de « traces » (Galinon-Mélénec, Liénard, Zlitni 2019 ; Jeanneret 2019), de mise en scène de l’individu au sein d’un collectif et d’exploitation des « données » ainsi produites.\n\nOrganisation des séances\nLes séances alterneront des “cours magistraux” et des discussions ou échanges autour d’exemples illustrant les notions théoriques abordées lors des cours magistraux.\nIl est souhaité que les étudiant·e·s se munissent de leur ordinateur personnel afin de profiter pleinement des enseignements dispensés.\n\n22 janvier 2025 - Introduction au cours “Identités numériques”\n29 janvier 2025 - Définir l’identité numérique\n05 février 2025 - Des profils préfabriqués\n12 février 2025 - Des profils préfabriqués (2)\n19 février 2025 - L’identité numérique sous emprise culturelle\n26 février 2025 - Semaine de vacances\n05 mars 2025 - Devoir sur table\n12 mars 2025 - Écriture numérique et éditorialisation\n19 mars 2025 - Traces & capitalisme de surveillance\n26 mars 2025 - Pour une réappropriation collective des traces\n02 avril 2025 - Le profil : un nouveau territoire imaginaire ?\n[09 avril 2025 - Devoir sur table]\n16 avril 2025 - Semaine de révisions\n[23 avril 2025 - Identités numériques et IA]\n\n\n\nModalités d’évaluations\nTrois modalités d’évaluation permettront aux étudiant·e·s de valider ce cours :\n\nRéalisation d’un portrait numérique en binôme\nUn devoir sur table: analyse critique du portrait numérique\nUn devoir sur table lors de la séance du 09 avril 2025\n\n\nChaque binôme devra réaliser un portrait. Les portraits seront à déposer sur la plateforme https://coursenligne.parisnanterre.fr pour le 21 février 2025 au plus tard à 23h59.\n\n\n\n\n\n\n\nTrinômes\n\n\n\nPour celles et ceux qui souhaitent former des trinômes :\n\nle portrait devra mettre en perspective deux techniques de réalisation différentes (deux objets à rendre)\n\n\n\n\nIl est également demandé à chaque personne d’écrire une analyse critique du processus d’élaboration du portrait en lien avec les notions du cours, à réaliser lors du cours du 05 mars 2025.\nDevoir sur table.\n\n\n\n\n\n\n\nWarning\n\n\n\nPensez à apporter des feuilles et des stylos ! L’examen sera un devoir sur table !",
+    "text": "Objectifs\nLe cours est fondé sur la question suivante: comment l’identité est-elle reformulée par les formats standardisés des sites Web ? Nous y analyserons l’articulation entre des expressions individuelles et les logiques industrielles qui les encadrent. Un focus particulier sera fait sur les écritures numériques (notamment sur les réseaux socio-numériques (RSN)) qui mettent en exergue les logiques de fabrication de « traces » (Galinon-Mélénec, Liénard, Zlitni 2019 ; Jeanneret 2019), de mise en scène de l’individu au sein d’un collectif et d’exploitation des « données » ainsi produites.\n\nOrganisation des séances\nLes séances alterneront des “cours magistraux” et des discussions ou échanges autour d’exemples illustrant les notions théoriques abordées lors des cours magistraux.\nIl est souhaité que les étudiant·e·s se munissent de leur ordinateur personnel afin de profiter pleinement des enseignements dispensés.\n\n22 janvier 2025 - Introduction au cours “Identités numériques”\n29 janvier 2025 - Définir l’identité numérique\n05 février 2025 - Des profils préfabriqués\n12 février 2025 - Des profils préfabriqués (2)\n19 février 2025 - L’identité numérique sous emprise culturelle\n26 février 2025 - Semaine de vacances\n05 mars 2025 - Devoir sur table\n12 mars 2025 - Écriture numérique et éditorialisation\n19 mars 2025 - Traces & capitalisme de surveillance\n26 mars 2025 - Pour une réappropriation collective des traces\n02 avril 2025 - Le profil : un nouveau territoire imaginaire ?\n09 avril 2025 - Devoir sur table\n16 avril 2025 - Semaine de révisions\n[23 avril 2025 - Identités numériques et IA]\n\n\n\nModalités d’évaluations\nTrois modalités d’évaluation permettront aux étudiant·e·s de valider ce cours :\n\nRéalisation d’un portrait numérique en binôme\nUn devoir sur table: analyse critique du portrait numérique\nUn devoir sur table lors de la séance du 09 avril 2025\n\n\nChaque binôme devra réaliser un portrait. Les portraits seront à déposer sur la plateforme https://coursenligne.parisnanterre.fr pour le 21 février 2025 au plus tard à 23h59.\n\n\n\n\n\n\n\nTrinômes\n\n\n\nPour celles et ceux qui souhaitent former des trinômes :\n\nle portrait devra mettre en perspective deux techniques de réalisation différentes (deux objets à rendre)\n\n\n\n\nIl est également demandé à chaque personne d’écrire une analyse critique du processus d’élaboration du portrait en lien avec les notions du cours, à réaliser lors du cours du 05 mars 2025.\nDevoir sur table.\n\n\n\n\n\n\n\nWarning\n\n\n\nPensez à apporter des feuilles et des stylos ! L’examen sera un devoir sur table !",
     "crumbs": [
       "Plan de cours"
     ]
